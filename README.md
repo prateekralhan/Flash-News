@@ -2,6 +2,12 @@
 A web application which gives us the latest news on the topic of interest of the user from multiple sources scattered across the web! 
 ## Live app available [here.](https://flash-news-python.herokuapp.com)
 
+![home](https://user-images.githubusercontent.com/29462447/92984399-7b265380-f4c7-11ea-8c40-5e6ebae60656.png)
+
+<img src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" width="350" height="700" />
+
+
+
 ### Installation:
 The command: ***pip install -r requirements.txt*** will do everything for us.
 
