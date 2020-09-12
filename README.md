@@ -3,6 +3,10 @@ A web application which gives us the latest news on the topic of interest of the
 ## Live app available [here.](https://flash-news-python.herokuapp.com)
 
 ![home](https://user-images.githubusercontent.com/29462447/92984399-7b265380-f4c7-11ea-8c40-5e6ebae60656.png)
+![search](https://user-images.githubusercontent.com/29462447/92984723-e8d37f00-f4c9-11ea-9fee-374cd70f4d88.png)
+![results](https://user-images.githubusercontent.com/29462447/92984721-e709bb80-f4c9-11ea-9298-60fe5475bc77.png)
+
+
 <img src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" width="350" height="700" />
 
 
