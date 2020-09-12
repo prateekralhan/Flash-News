@@ -12,7 +12,12 @@ A web application which gives us the latest news on the topic of interest of the
 
 &nbsp;
 <kbd>
-<img src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" width="350" height="700" />
+<img src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" width="300" height="650" />
+</kbd>
+
+&nbsp;
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/92984929-c7739280-f4cb-11ea-84aa-3f5ea24aeb99.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/92984929-c7739280-f4cb-11ea-84aa-3f5ea24aeb99.jpg" width="300" height="650" />
 </kbd>
 
 
