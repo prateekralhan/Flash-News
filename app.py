@@ -4,13 +4,13 @@ from GoogleNews import GoogleNews
 from newspaper import Article
 from newspaper import Config
 import pandas as pd
-import nltk
+#import nltk
 #config will allow us to access the specified url for which we are #not authorized. Sometimes we may get 403 client error 
 #while parsing #the link to download the article.
  
 app = Flask(__name__)
  
-nltk.download('punkt')
+#nltk.download('punkt')
 
 user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'
 config = Config()
@@ -29,11 +29,13 @@ def get_results():
     googlenews.search(request.form['keyword'])
     result=googlenews.result()
     df=pd.DataFrame(result)
-    #print(df.head())
+    #print(df.head())ss
+    """
     for i in range(2,20):
         googlenews.getpage(i)
         result=googlenews.result()
         df=pd.DataFrame(result)
+    """
     list=[]
     for ind in df.index:
         dict={}
