@@ -9,7 +9,7 @@ A web application which gives us the latest news on the topic of interest of the
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/92984721-e709bb80-f4c9-11ea-9298-60fe5475bc77.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/92984721-e709bb80-f4c9-11ea-9298-60fe5475bc77.png"/> 
 </kbd>
-<p float="left">
+<p float="center">
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" width="350" height="700" />
 </kbd>
