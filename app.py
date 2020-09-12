@@ -4,7 +4,7 @@ from GoogleNews import GoogleNews
 from newspaper import Article
 from newspaper import Config
 import pandas as pd
-#import nltk
+import nltk
 #config will allow us to access the specified url for which we are #not authorized. Sometimes we may get 403 client error 
 #while parsing #the link to download the article.
  
@@ -15,7 +15,6 @@ app = Flask(__name__)
 user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'
 config = Config()
 config.browser_user_agent = user_agent
-#googlenews=GoogleNews(start='05/01/2020',end='09/01/2020')
 googlenews = GoogleNews(period = 'd') 
 
  
@@ -54,14 +53,7 @@ def get_results():
         #dict['Summary']=article.summary
         dict['Link']=df['link'][ind]
         list.append(dict)
-    #keyword = request.form['keyword']  #getting input from user
- 
-    #news = newsapi.get_top_headlines(q=keyword,
-                                     #sources='bbc-news,the-verge',#optional and you can change
-                                     #category='business', #optional and you can change also
-                                     #language='en') #optional and you can change also
-                                     #country='in')
-    #print(news['articles'])
+
     return render_template('index.html',news=list)#news['articles'])
  
  
