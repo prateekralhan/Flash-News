@@ -9,17 +9,16 @@ A web application which gives us the latest news on the topic of interest of the
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/92984721-e709bb80-f4c9-11ea-9298-60fe5475bc77.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/92984721-e709bb80-f4c9-11ea-9298-60fe5475bc77.png"/> 
 </kbd>
-
-&nbsp;
+<p float="left">
 <kbd>
-<img src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" width="300" height="650" />
+<img src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/92984400-7c578080-f4c7-11ea-996d-70a052ad29e8.jpg" width="350" height="700" />
 </kbd>
-
-&nbsp;
+ &nbsp;
+ &nbsp;
 <kbd>
-<img src="https://user-images.githubusercontent.com/29462447/92984929-c7739280-f4cb-11ea-84aa-3f5ea24aeb99.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/92984929-c7739280-f4cb-11ea-84aa-3f5ea24aeb99.jpg" width="300" height="650" />
+<img src="https://user-images.githubusercontent.com/29462447/92984929-c7739280-f4cb-11ea-84aa-3f5ea24aeb99.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/92984929-c7739280-f4cb-11ea-84aa-3f5ea24aeb99.jpg" width="350" height="700" />
 </kbd>
-
+</p>
 
 ### Installation:
 The command: ***pip install -r requirements.txt*** will do everything for us.
