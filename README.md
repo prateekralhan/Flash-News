@@ -50,7 +50,7 @@ docker build --tag google_news_app .
 docker run --publish 8000:8080 --detach --name bb2 google_news_app
 ```
 
-This will launch the dockerized app. Navigate to ***http://localhost:8501/*** in your browser to have a look at your application. You can check the status of your all available running dockers by:
+This will launch the dockerized app. Navigate to ***localhost:8000*** in your browser to have a look at your application. You can check the status of your all available running dockers by:
 ```
 docker ps
 ```
