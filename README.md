@@ -1,4 +1,5 @@
-# Flash News ✨ ⚡️ [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+# Flash News ✨ ⚡️ [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 A web application which gives us the latest news on the topic of interest of the user from multiple sources scattered across the web! 
 ## Live app available [here.](https://flash-news-python.herokuapp.com)
 <kbd>
